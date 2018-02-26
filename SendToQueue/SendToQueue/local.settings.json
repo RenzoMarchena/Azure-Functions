@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=servicebustokaf828e;AccountKey=DtmQx460RaMrEygOIjP9+hD/FF2sho8r9LqLC2UD34xHCzIQhz6SGpo30hFeD57sQ/dq8Y75vdtJ6+41zRN21A==",
+    "AzureWebJobsDashboard": "",
+    "ServiceBusConnectionString": "Endpoint=sb://kafkatest.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=ov7QmGa7Tt2tLfLtCq1tVZOkQtnOaoJp1PPAB0YwCNI="
+  }
+}
